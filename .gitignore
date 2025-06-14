@@ -1,0 +1,5 @@
+node_modules/
+*.txt
+instruction.md
+.env
+index.html
