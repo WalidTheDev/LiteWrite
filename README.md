@@ -1,6 +1,6 @@
 # 📦 LiteWrite
 
-> A short and catchy project description or tagline.
+> A Backend Heavy Blog App
 
 ## 📚 Table of Contents
 
@@ -59,13 +59,18 @@ Contributions are welcome!
 4. Push to the branch: `git push origin feat/YourFeature`
 5. Open a Pull Request
 
+6. 
+## 📄 License
+
+Distributed under the [MIT](LICENSE).
+See the `LICENSE` file for more information.
 
 ## 📬 Contact
 
 **Walid Shaikh**
-Email: [walidshaikh552@gmail.com](mailto:walidshaikh552@gmail.com)
-GitHub: [@WalidTheDev](https://github.com/WalidTheDev)
-Project Link: [https://github.com/WalidTheDev/LiteWrite](https://github.com/WalidTheDev/LiteWrite)
+- Email: [walidshaikh552@gmail.com](mailto:walidshaikh552@gmail.com)
+- GitHub: [@WalidTheDev](https://github.com/WalidTheDev)
+- Project Link: [https://github.com/WalidTheDev/LiteWrite](https://github.com/WalidTheDev/LiteWrite)
 
 
 ---
